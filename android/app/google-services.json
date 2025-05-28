@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007664185805",
+    "project_id": "hayygov",
+    "storage_bucket": "hayygov.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007664185805:android:c35a8df7b85cad29d00484",
+        "android_client_info": {
+          "package_name": "com.example.hayygov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVTI9t54NzqhCnRtgKn32CoF1kSojAQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
